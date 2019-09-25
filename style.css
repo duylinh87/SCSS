@@ -1,0 +1,14 @@
+.container p {
+  background: red;
+  padding: 10px; }
+.container button {
+  width: 150px;
+  background: red;
+  padding: 10px;
+  font-size: 20px; }
+  .container button:hover, .container button:active, .container button:focus {
+    color: black;
+    background: aliceblue;
+    border: 1px solid red; }
+
+/*# sourceMappingURL=style.css.map */
